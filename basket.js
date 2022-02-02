@@ -89,7 +89,7 @@ document.querySelector('.featuredItems').addEventListener('click', (event) => {
         summary += +item.cost * +item.count
         totalOut.innerHTML = summary
         })
-        ``
+        
         //cбрасываем счетчик товаров в корзине
         totalCount = 0
         //отображаем счетчик товаров в корзине
